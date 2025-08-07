@@ -66,8 +66,8 @@ ol {
     display: flex;
     flex-direction: column;
     height: 300px;
-    overflow-y: auto;
     overflow-x: hidden;
+    overflow-y: auto;
     gap: 30px;
     position: relative;
 }
